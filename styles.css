@@ -1,0 +1,128 @@
+.pill-nav a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    font-size: 17px;
+    border-radius: 5px;
+}
+
+.pill-nav a:hover {
+    background-color: dodgerblue;
+    color: white;
+}
+
+.pill-nav a.active {
+    background-color: dodgerblue;
+    color: white;
+}
+.row {
+    padding: 24px;
+    margin:0px;
+    padding:0px;
+    top:30%;
+    position: absolute;
+    left:6px; 
+    top: calc(6vw + 250px);
+}
+
+h3,h2,h1  {
+    padding: 24px;
+}
+
+h6{
+    font-size: 1.5rem;
+    text-align: left ;
+}
+
+.grad {
+    font-size: 18px;
+    text-align: center;
+    background-image: linear-gradient(to Bottom, lightskyblue, black, lightskyblue);
+    width: 100%;
+    height: 48px;
+    border: 10px solid transparent;
+    border-radius: 1.25rem;
+    font-weight: 700;
+    color: white;
+    
+}
+nav {
+    font-size: 10pt;
+    font-family: Times New Roman; 
+    font-style: italic;
+    font-weight: bold;
+    color:white;
+    bottom:60%;  
+    position: relative;
+    height: calc(0vw + 1px);
+    display:inline;
+
+
+}
+.haber {
+    background-color: white;
+    color: black;
+    margin: 10px;
+    border-radius: 5px;
+    font-size: 1.3rem;
+    text-align: center;
+}
+.column {
+    padding: 10px;
+}
+.title {
+    z-index: 4;
+    position: absolute;
+    top:15%;
+    bottom: 130px;
+    left: 20px;
+    font-size: 40px;
+    color: Navy;
+    font-family: Times New Roman; 
+    font-weight: bold;
+
+}
+.linkler{
+    text-align: center;
+    color: white;
+    background-color: white;
+    margin: 10px;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+li {
+    z-index: 4;
+    border: 4px solid royalblue;
+    border-radius: 8px;
+    color: white;
+    margin:4px;
+    top: calc(10vw + 1px);
+
+}
+
+.anasayfa {
+    background-color: white;
+    color: black;
+    margin: 10px;
+    padding:10px;
+    border-radius: 5px;
+    font-size: 1.3rem;
+    text-align: center;
+}
+
+img {
+    position: relative;
+    max-width: 100%;
+    display: inline;
+    width: 100%;
+    height: 100%;
+    
+}
+.header {
+    position: relative;
+    height: calc(5vw + 230px);
+ 
+}
