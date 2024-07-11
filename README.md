@@ -1,1 +1,2 @@
-<h2 id="V1">Website Template <b>v1</b></h2>
+<h2 id="V1">Website Template</h2>
+<h3><b>Latest Version: v1</b></h3>
